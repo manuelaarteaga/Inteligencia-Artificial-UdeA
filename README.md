@@ -5,7 +5,7 @@ Este repositorio se crea con el objetivo de desarrollar las actividades propuest
 
 ## Miembros del equipo
 - Manuela Arteaga Arango, C.C 1152710365. Programa: Bioingenieria
- - Rosa
+- Rosa Puerta Campo, C.C 1.002.389.631. Programa: 
    
 ## Set de datos
 El set de datos que vamos a utilizar es COVID-19 dataset. 
