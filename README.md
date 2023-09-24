@@ -9,7 +9,7 @@ Este repositorio se crea con el objetivo de desarrollar las actividades propuest
    
 ## Set de datos
 El set de datos que vamos a utilizar es COVID-19 dataset. 
-Este set de datos contiene información de distintas partes del mundo, con el fin de analizar cómo es el comportamiento de la COVID-19.
+Este set de datos contiene información de distintas partes del mundo, con el fin de analizar cómo es el comportamiento del COVID-19.
 El set de datos tiene mucha información según resultados de pruebas que se les practicaron a los pacientes, con el fin de ver si las infecciones
 pueden arrojar algún patrón en estos valores o si simplemente se generan de forma aleatoria.
 
