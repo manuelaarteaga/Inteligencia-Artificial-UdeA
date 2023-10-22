@@ -15,4 +15,4 @@ pueden arrojar algún patrón en estos valores o si se generan de forma aleatori
 
 
 ## Videos entregas
-Entrega 2: <a href=https://youtu.be/Lqs7yQKNbw0>
+<a href="https://youtu.be/Lqs7yQKNbw0"> Video entrega 2</a>.
