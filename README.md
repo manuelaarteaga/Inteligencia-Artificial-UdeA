@@ -14,3 +14,5 @@ El set de datos tiene mucha información según resultados de pruebas que se les
 pueden arrojar algún patrón en estos valores o si se generan de forma aleatoria.
 
 
+## Videos entregas
+Entrega 2: <a href=https://youtu.be/Lqs7yQKNbw0>
