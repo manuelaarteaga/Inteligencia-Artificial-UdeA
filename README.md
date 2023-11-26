@@ -16,4 +16,4 @@ pueden arrojar algún patrón en estos valores o si se generan de forma aleatori
 
 ## Videos entregas
 <a href="https://youtu.be/Lqs7yQKNbw0"> Video entrega 2</a>.
-<a href="[https://drive.google.com/drive/folders/1aOpo5iYktvDHnELWiy1ZL26fYUOauui6](https://youtu.be/ALnVFTNOsvo)https://youtu.be/ALnVFTNOsvo"> Video entrega final</a>.
+<a href="https://youtu.be/ALnVFTNOsvo"> Video entrega final</a>.
